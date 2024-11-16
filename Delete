@@ -1,0 +1,4 @@
+rm path/to/file1 path/to/file2
+git add .
+git commit -m "Delete multiple files"
+git push origin main
